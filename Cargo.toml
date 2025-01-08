@@ -13,5 +13,5 @@ repository = "https://github.com/jbr/driftwood"
 [dependencies]
 tide = "0.16.0"
 chrono = "0.4.19"
-colored = "2.0.0"
+colored = "3.0.0"
 size = "0.1.2"
